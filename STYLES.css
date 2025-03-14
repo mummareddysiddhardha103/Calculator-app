@@ -1,0 +1,25 @@
+body{
+    background-color:deeppink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calculator{
+    background-color:darkblue;
+    color: deepskyblue;
+    padding: 20px;
+    border-radius: 1opx;
+}
+display{
+    padding:8px 10px;
+    outline: none;
+    width:100%;
+    margin: 20px;
+    border-radius: 6px;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    margin: 7px;
+}
